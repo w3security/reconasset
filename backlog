@@ -1,0 +1,43 @@
+Blue Team Tips
+  https://twitter.com/securityinbits/status/1628364983661694976
+Network Discovery and Mapping
+-
+Vulnerability Management
+  Qualys
+  Lynis
+  BugCrowd
+Security Monitoring
+  https://github.com/clong/DetectionLab
+  OSquery + Kolide Fleet
+  Splunk
+  ElastAlert
+Threat Tools and Techniques
+  https://github.com/center-for-threat-informed-defense/adversary_emulation_library
+  https://gchq.github.io/CyberChef/
+  https://github.com/PowerShell/JEA
+Threat Intelligence
+  ThreatCrowd
+  OTX AlienVault
+Incident Response Planning
+  https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-emergency-doc-digital.pdf
+  https://github.com/meirwah/awesome-incident-response
+  Business Continuity Plan
+  Insider Threat Response Plan
+  Physical Security Plan
+Malware Detection and Analysis
+  https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
+  https://github.com/skylot/jadx
+Data Recovery
+  https://github.com/CIRCL/Circlean
+Digital Forensics
+  https://github.com/e-m-b-a/emba
+  Volatility
+Security Awareness Training
+  KnowBe4
+  Wombat Security
+  Imersivelabs
+Communication and Collaboration
+  https://twitter.com/malmoeb
+  ArcSight SIEM
+  LogRhythm SIEM
+  AlienVault USM SIEM
