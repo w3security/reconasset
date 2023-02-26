@@ -1,0 +1,40 @@
+Red Teaming Tips 
+  Using PreventDefault() in JavaScript, you are able to create a spoofed link that previews one site but goes to another on your phishing site
+  Have blue hidden the ways including winkey+R? Try shift and right click desktop and open command prompt
+  RCE on a web application for less mature client? nslookup -q=srv _ldap._tcp if its domain joined Invoke-Kerberoast
+  https://twitter.com/malmoeb/status/1628272928855826433
+Reconnaissance
+  https://github.com/LukaSikic/subzy
+  https://github.com/six2dez/reconftw
+  https://github.com/smicallef/spiderfoot
+  https://github.com/cvandeplas/pystemon
+  https://twitter.com/nullenc0de/status/1628576277123702789
+Resource Development
+  Windows Patch Reversing (PatchExtract.ps1) | https://twitter.com/laughing_mantis/status/842100719385698305
+  https://github.com/Techryptic/AV_Bypass
+  https://github.com/knownsec/shellcodeloader
+  http://undocumented.ntinternals.net/
+Initial Access
+-
+Execution
+  https://github.com/google/AFL
+Persistence
+  https://github.com/leoloobeek/COMProxy (Prevent application crashes during COM Object Search Order Hijacking)
+Privilege Escalation
+-
+Defense Evasion
+-
+Credential Access
+-
+Discovery
+-
+Lateral Movement
+-
+Collection
+-
+Command and Control
+-
+Exfiltration
+-
+Impact
+-
